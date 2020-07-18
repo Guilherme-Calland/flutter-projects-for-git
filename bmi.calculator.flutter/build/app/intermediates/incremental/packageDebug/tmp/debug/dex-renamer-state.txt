@@ -1,0 +1,4 @@
+#Mon Jul 06 08:58:30 BRT 2020
+base.0=/home/gui/flutter-projects/bmi-calculator-flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
